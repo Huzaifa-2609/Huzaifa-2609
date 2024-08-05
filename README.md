@@ -17,7 +17,7 @@ I am a Software Engineer, specializing in full-stack development with a strong f
 ### 🎓 &nbsp;Education :
 
 **Bachelor of Software Engineering (BESE)**
-*NED-UET* | Oct 2020 - Present
+*NED-UET* | Oct 2020 - July 2024
 
 ### 💻 &nbsp;Skills :
 
