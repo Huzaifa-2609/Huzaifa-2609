@@ -12,7 +12,7 @@
 
 ### 🙋‍♂️ &nbsp;About Me :
 
-I am an undergraduate student of Software Engineering at NEDUET, specializing in full-stack development with a strong foundation in the MERN stack. My experience includes Python, C++, data structures, and algorithms. I have a passion for object-oriented programming, web development, and emerging technologies such as Blockchain and Artificial Intelligence.
+I am a Software Engineer, specializing in full-stack development with a strong foundation in the MERN stack. My experience includes Python, C++, data structures, and algorithms. I have a passion for object-oriented programming, web development, and emerging technologies such as Blockchain and Artificial Intelligence.
 
 ### 🎓 &nbsp;Education :
 
